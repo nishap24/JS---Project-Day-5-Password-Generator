@@ -12,6 +12,7 @@ Generate secure and unique passwords effortlessly with this lightweight JavaScri
 ## Demo
 
 Live Demo:
+https://nishap24.github.io/JS---Project-Day-5-Password-Generator/
    
 ## Getting Started
 
