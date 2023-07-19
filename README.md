@@ -6,12 +6,13 @@ NK Codes💛 - Password Generator
 Generate secure and unique passwords effortlessly with this lightweight JavaScript password generator. Customize password length and character sets to create strong passwords. Safeguard your online accounts easily. Open-source and user-friendly.
 ## Authors
 
-- [NK💛](https://www.github.com/codesofTG) 
+- [NK💛](https://www.github.com/nishap24) 
 
 
 ## Demo
 
 Live Demo:
+
 https://nishap24.github.io/JS---Project-Day-5-Password-Generator/
    
 ## Getting Started
@@ -59,7 +60,7 @@ NK :
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nishap24)
 
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nisha_p_24)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nisha_2407_)
 
 
 Thank you for visiting the page!
