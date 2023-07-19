@@ -37,6 +37,9 @@ To explore or modify the code, follow these steps:
 
 3️⃣ User Interface Refinements: Improve the user interface to enhance usability and aesthetic appeal. Consider implementing a clean and intuitive design, ensuring that users can effortlessly navigate and interact with the password generator. Incorporate responsive design principles to optimize the experience across various devices and screen sizes.
 
+## Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c863c9c0-8573-43f9-80d8-590346398eea/deploy-status)](https://app.netlify.com/sites/kanasu-password-generator/deploys)
 
 ## Contributing
 
